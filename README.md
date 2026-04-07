@@ -1,7 +1,4 @@
 ```md
-# Sunshine
-
-**Sunshine** is a multi-page static website built for a **fruit and vegetable business**. It is designed using **HTML, CSS, Bootstrap, and JavaScript** and includes pages such as Home, About, Products, Gallery, and Contact.
 
 ## Features
 
